@@ -1,0 +1,107 @@
+[
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BNB",
+      "decimal": 18
+    },
+    {
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "symbol": "ALPACA",
+      "decimal": 18
+    },
+    {
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "decimal": 18
+    },
+    {
+        "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+        "symbol": "TrueUSD",
+        "decimal": 18
+      },
+      {
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "symbol": "USDT",
+        "decimal": 18
+      },
+      {
+        "address": "0x522348779dcb2911539e76a1042aa922f9c47ee3",
+        "symbol": "BOMB",
+        "decimal": 18
+      },
+      {
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "symbol": "BTCB",
+        "decimal": 18
+      },
+      {
+        "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+        "symbol": "EPS",
+        "decimal": 18
+      },
+      {
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "symbol": "USDC",
+        "decimal": 18
+      },
+      {
+        "address": "0xaf4de8e872131ae328ce21d909c74705d3aaf452",
+        "symbol": "3EPS",
+        "decimal": 18
+      },
+      {
+        "address": "0x8d78c2ff1fb4fba08c7691dfeac7bb425a91c81a",
+        "symbol": "LATTE",
+        "decimal": 18
+      },
+      {
+        "address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
+        "symbol": "BTT",
+        "decimal": 18
+      },
+      {
+        "address": "0x1fc9004ec7e5722891f5f38bae7678efcb11d34d",
+        "symbol": "",
+        "decimal": 18
+      },
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "symbol": "NFT",
+        "decimal": 6
+      },
+      {
+        "address": "0x63870a18b6e42b01ef1ad8a2302ef50b7132054f",
+        "symbol": "blink",
+        "decimal": 6
+      },
+      {
+        "address": "0x688214472251bc337a4661404bfd930c4f1676a0",
+        "symbol": "SIFC",
+        "decimal": 18
+      },
+      {
+        "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "symbol": "",
+        "decimal": 18
+      },
+      {
+        "address": "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
+        "symbol": "Cake",
+        "decimal": 18
+      },
+      {
+        "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+        "symbol": "TRX",
+        "decimal": 18
+      },
+      {
+        "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+        "symbol": "XVS",
+        "decimal": 18
+      },
+      {
+        "address": "0xa9c41a46a6b3531d28d5c32f6633dd2ff05dfb90",
+        "symbol": "WEX",
+        "decimal": 18
+      }
+]
